@@ -63,4 +63,7 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
+.table {
+	border: 1px solid blue;
+}
 /* Your code starts here! */
